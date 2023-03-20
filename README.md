@@ -1,8 +1,8 @@
 # Continuous Assessment 1
 
-Student Name: Your name
-Student ID: 123456
-Course: Your course
+Student Name: MARCELO FERREIRA NETO
+Student ID: 25708
+Course: Computing Science
 
 ## Requirement Checklist
 
